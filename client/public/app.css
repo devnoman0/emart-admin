@@ -1,0 +1,54 @@
+.pageheader-conatiner {
+  display: flex;
+  justify-content: space-between;
+  max-width: 960px;
+  align-items: center;
+  margin: auto;
+  padding: 0px 0px;
+}
+
+.page-details {
+  width: 400px;
+}
+.page-details h3 {
+  color: white;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.page-details h4 {
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+}
+.table-header {
+  max-width: 85%;
+  padding: 0px;
+  margin: 0px;
+  margin: auto;
+}
+.table-header h3 {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.page-image {
+  width: 350px;
+}
+
+.page-image img {
+  height: 300px;
+  width: 300px;
+}
+
+.pagebtn {
+  background: white;
+  padding: 10px;
+  width: 150px;
+  text-align: center;
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #10aed2;
+  cursor: pointer;
+}
